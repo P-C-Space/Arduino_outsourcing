@@ -1,5 +1,5 @@
 # 초음파 다루기
-
+* 이 작업에서 사용하는 초음파 센서는 약 40KHz, 4~5m의 거리를 측정하며 trig에서 음파를 발사하고, echo로 받는 초음파 거리센서입니다.
 ## 하드웨어 연결
 ![image](https://github.com/P-C-Space/Arduino_outsourcing/assets/39722575/39716da3-ae6a-45eb-af57-7b88efa5e304)
 
