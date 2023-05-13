@@ -163,7 +163,7 @@ void loop() {
 * 감지시 부저
 * 미감지시 2~3초후 부저 종료
 * 계속 감지시에도 끊김없이 부저 
-https://github.com/P-C-Space/Arduino_outsourcing/assets/39722575/b6b8a716-74f3-4e60-9762-55c87666a9db
+<br> https://github.com/P-C-Space/Arduino_outsourcing/assets/39722575/b6b8a716-74f3-4e60-9762-55c87666a9db
 ## 모듈 확인
 * 초음파 센서 다루기 [이동](https://github.com/P-C-Space/Arduino_outsourcing/tree/main/%EC%B4%88%EC%9D%8C%ED%8C%8C)
 * 부저 다루기 [이동](https://github.com/P-C-Space/Arduino_outsourcing/tree/main/%EB%B6%80%EC%A0%80)
