@@ -3,7 +3,7 @@
 ## 하드웨어 연결
 ![캡처](https://github.com/P-C-Space/Arduino_outsourcing/assets/39722575/6a6e16da-9372-4b47-adae-e1ac8bb61cee)
 
-## 코드[보러가기](https://github.com/P-C-Space/Arduino_outsourcing/blob/main/%EB%B8%94%EB%A3%A8%ED%88%AC%EC%8A%A4/%EC%BD%94%EB%93%9C/___ex.ino)
+## 코드
 ```
 
 ```
