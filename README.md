@@ -32,7 +32,7 @@ void loop() {
   delay(1000);
 }
 ```
-![블루투스 기본설정](https://github.com/P-C-Space/Arduino_outsourcing/assets/39722575/6ac8df42-5687-4d4c-beb4-f7df20c159e4)
+![블루투스 기본설정](https://github.com/P-C-Space/Arduino_outsourcing/assets/39722575/a8a53c29-66a6-4930-b68b-448889fcccf2)
 ### 슬레이브 코드
 ```
 #include <SoftwareSerial.h>
@@ -57,9 +57,9 @@ void loop() {
   }
 }
 ```
-![블루투스 slave설정](https://github.com/P-C-Space/Arduino_outsourcing/assets/39722575/41f4be51-db25-42e3-9d5a-45c7634b1bc6)
+![블루투스 slave설정](https://github.com/P-C-Space/Arduino_outsourcing/assets/39722575/e85fe292-d8c0-453d-8240-8d63e6b65e11)
 ### 통신 테스트
-![캡처](https://github.com/P-C-Space/Arduino_outsourcing/assets/39722575/ed443a98-4b0b-41a5-8503-6f3c1352db0f)
+![캡처](https://github.com/P-C-Space/Arduino_outsourcing/assets/39722575/321e8996-32d8-410c-a34b-4215d84a897d)
 ## 프로젝트
 ### 마스터 코드
 ```
@@ -160,7 +160,7 @@ void loop() {
 }
 ```
 ### 테스트 확인
-https://github.com/P-C-Space/Arduino_outsourcing/assets/39722575/d6698694-be3f-4ba9-9f6a-0760fec737b7
+[https://github.com/P-C-Space/Arduino_outsourcing/assets/39722575/d6698694-be3f-4ba9-9f6a-0760fec737b7](https://github.com/P-C-Space/Arduino_outsourcing/assets/39722575/0c012d13-b3e7-477b-affd-3435f12142ee)
 * 감지시 부저
 * 미감지시 2~3초후 부저 종료
 * 계속 감지시에도 끊김없이 부저 
