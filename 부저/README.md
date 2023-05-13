@@ -3,7 +3,7 @@
 ## 하드웨어 연결
 ![부저 하드웨어](https://github.com/P-C-Space/Arduino_outsourcing/assets/39722575/50dda142-869b-493f-b7b7-be24f196320a)
 
-## 코드[보러가기]
+## 코드
 ![코드 캡처](https://github.com/P-C-Space/Arduino_outsourcing/assets/39722575/c1f0cb04-9e16-49dc-9b73-3d0bde8dd8f9)
 
 ## 시리얼 모니터 출력 
