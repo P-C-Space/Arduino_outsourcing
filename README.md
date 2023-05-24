@@ -118,7 +118,7 @@ void loop() {
   delay(100);
 }
 ```
-### 마스터 코드
+### 슬레이브 코드
 ```
 #include <SoftwareSerial.h>
 
